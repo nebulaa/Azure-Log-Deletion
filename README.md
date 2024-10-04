@@ -1,4 +1,4 @@
-# GDPR-Logs-Deletion
+# Example-Azure-Log-Deletion-Script
 
 ## Overview
 
